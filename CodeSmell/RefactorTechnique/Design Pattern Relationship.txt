@@ -1,0 +1,6 @@
+﻿[Refactor Method Design Pattern Relationship]
+Replace Type Code with State/Strategy : State / Strategy
+Introduce Null Object : Null-object
+Replace Constructor with Factory Method : Factory Method
+Form Template Method : Template Method
+Replace Inheritance with Delegation : Strategy

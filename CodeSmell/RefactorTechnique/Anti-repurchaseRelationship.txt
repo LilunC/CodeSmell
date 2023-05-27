@@ -1,0 +1,22 @@
+﻿[Refactor Method Anti-repurchase Relationship]
+
+-> : What method to use for anti-refactoring
+
+Example : 
+Extract Variable -> Inline Temp
+Extraction variables can be anti-repurchased using inline temperature
+
+Extract method <-> Inline Method
+Extract Variable -> Inline Temp
+Split Temporary Variable -> Inline Temp
+Extract Class <-> Inline Class
+Hide Delegate <-> Remove Middle Man
+Change Value to Reference <-> Change Reference to Value
+Replace Array with Object -> Replace Data Value with Object
+Change Unidirectional Association to Bidirectional <-> Change Bidirectional Association to Unidirectional
+Replace Type Code with Subclasses <-> Replace Subclass with Fields
+Add Parameter <-> Remove Parameter
+Parameterize Method <-> Replace Parameter with Explicit Methods
+Pull Up Field <-> Push Down Field
+Pull Up Method <-> Push Down Method
+Replace Delegation with Inheritance <-> Replace Delegation with Inheritance

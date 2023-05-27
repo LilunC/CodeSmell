@@ -1,0 +1,43 @@
+﻿[Refactor Method Eliminates Smell Relationship]
+Extract Method : Duplicate Code / Long Method / Feature Envy / Switch Statements / Message Chains / Comments / Data Class
+Inline Method : Speculative Generality	
+Extract Variable : Comments
+Replace Temp with Query : Duplicate Code / Long Method
+Substitute Algorithm : Duplicate Code / Long Method
+Move Method : Shotgun Surgery / Inappropriate Intimacy / Feature Envy / Switch Statements / Message Chains / Parallel Inheritance Hierarchies / Data Class
+Move Field : Shotgun Surgery / Inappropriate Intimacy / Parallel Inheritance Hierarchies
+Extract Class : Duplicate Code / Large Class / Divergent Change / Data Clumps / Primitive Obsession / Temporary Field / Inappropriate Intimacy
+Inline Class : Shotgun Surgery / Lazy Class / Speculative Generality
+Hide Delegate : Message Chains / Inappropriate Intimacy
+Remove Middle Man : Middle Man
+Duplicate Observed Data : Large Class
+Replace Array with Object : Primitive Obsession
+Change Bidirectional Association to Unidirectional : Inappropriate Intimacy
+Encapsulate Collection : Data Class
+Replace Magic Number with Symbolic Constant
+Replace Type Code with Class : Primitive Obsession
+Replace Type Code with Subclasses : Primitive Obsession
+Replace Type Code with State/Strategy : Primitive Obsession
+Consolidate Conditional Expression : Duplicate Code
+Consolidate Duplicate Conditional Fragments : Duplicate Code
+Decompose Conditional : Long Method
+Replace Conditional with Polymorphism : Switch Statements
+Introduce Null Object : Switch Statements / Temporary Field
+Introduce Assertion : Comments
+Remove Parameter : Speculative Generality
+Rename Method : Alternative Classes with Different Interfaces / Comments
+Parameterize Method : Duplicate Code
+Introduce Parameter Object : Primitive Obsession / Long Parameter List / Long Method / Data Clumps
+Preserve Whole Object : Primitive Obsession / Long Parameter List / Long Method / Data Clumps
+Replace Parameter with Explicit Methods : Switch Statements / Long Method
+Hide Method : Data Class
+Pull Up Field : Duplicate Code
+Pull Up Method : Duplicate Code
+Pull Up Constructor Body : Duplicate Code
+Push Down Field : Refused Bequest
+Push Down Method : Refused Bequest
+Extract Subclass : Large Class
+Extract Superclass : Duplicate Code
+Collapse Hierarchy : Lazy Class / Speculative Generality
+Form Template Method : Duplicate Code
+Replace Delegation with Inheritance : Inappropriate Intimacy

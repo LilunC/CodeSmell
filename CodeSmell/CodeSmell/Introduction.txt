@@ -1,0 +1,54 @@
+﻿[Code smells type]
+
+1. Bloaters (程式碼過於龐大)
+2. Object-orientation abuses(破壞繼承 / 多形)
+3. Change preventers(改一個功能需要改許多地方)
+4. Dispensables(沒用的代碼)
+5. Couplers(過度耦合)
+6. Obfuscators(無法直觀理解程式碼)
+7. Other smells
+
+  [Bloaters]
+  1. Class Doesnt Do Much
+* 2. Data Clumps 
+  3. Long Method
+  4. Large Class
+* 5. Long Parameter List
+  6. Primitive Obsession
+
+  [Change preventers]
+  1. Conditional Complexity
+* 2. Divergent Change
+  3. Inconsistent Abstraction Level
+  4. Parallel Inheritance Hierarchies
+* 5. Shotgun Surgery
+
+  [Couplers]
+  1. Feature Envy
+  2. Hidden Temporal Coupling
+  3. Hidden Dependencies
+* 4. Inappropriate Intimacy
+* 5. Message Chains
+* 6. Middle Man
+
+  [Dispensables]
+* 1. Comments
+  2. Data Class
+  3. Dead Code
+  4. Duplicate Code
+  5. Lazy Class
+* 6. Speculative Generality
+
+  [Object-orientation abuses]
+  1. Alternative Classes with Different Interfaces
+* 2. Refused Bequest
+  3. Switch Statements 
+  4. Temporary Field
+
+  [Obfuscators]
+  1. Inconsistency
+  2. Poor Names
+  3. Vertical Separation
+
+  [Other smells]
+* 1. Incomplete Library Class
